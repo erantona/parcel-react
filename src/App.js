@@ -3,11 +3,9 @@ import React from 'react';
 const App = () => {
   return (
     <div>
-      <h1>Lkoso</h1>
-      <p>hotwing</p>
+      <h1>clean react with parcel</h1>
     </div>
   );
 };
 
 export default App;
-// "build:css": "postcss src/styles/tailwind.css -o src/styles/style.css"
